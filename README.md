@@ -1,4 +1,4 @@
-### Shopping Application Design
+# Shopping Application Design
 
 # About
 <ul>
